@@ -1,0 +1,13 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Hello World 4.exe,org.eclipse.launchbar.core.descriptorType.default\:hello_world.exe,org.eclipse.launchbar.core.descriptorType.default\:stringStream.exe,org.eclipse.launchbar.core.descriptorType.default\:thisPointer.exe,org.eclipse.launchbar.core.descriptorType.default\:constructorInitialization.exe,org.eclipse.launchbar.core.descriptorType.default\:Pointers and Arrays.exe,org.eclipse.launchbar.core.descriptorType.default\:Pointer Arithmetic.exe,org.eclipse.launchbar.core.descriptorType.default\:Reverse a String.exe,org.eclipse.launchbar.core.descriptorType.default\:Reversing a String.exe,org.eclipse.launchbar.core.descriptorType.default\:References.exe,org.eclipse.launchbar.core.descriptorType.default\:Const.exe,org.eclipse.launchbar.core.descriptorType.default\:Copy Constructors.exe,org.eclipse.launchbar.core.descriptorType.default\:New Operator.exe,org.eclipse.launchbar.core.descriptorType.default\:Pointers.exe,org.eclipse.launchbar.core.descriptorType.default\:Returning Objects From Functions.exe,org.eclipse.launchbar.core.descriptorType.default\:Allocating Memory.exe,org.eclipse.launchbar.core.descriptorType.default\:Inheritance.exe,org.eclipse.launchbar.core.descriptorType.default\:SDL Test.exe,org.eclipse.launchbar.core.descriptorType.default\:SDL Tester.exe,org.eclipse.launchbar.core.descriptorType.default\:Bitwise And.exe,org.eclipse.launchbar.core.descriptorType.default\:SDL Basic.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Allocating\ Memory.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Allocating\ Memory.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Const.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Const.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Hello\ World\ 4.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Hello\ World\ 4.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:constructorInitialization.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:constructorInitialization.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

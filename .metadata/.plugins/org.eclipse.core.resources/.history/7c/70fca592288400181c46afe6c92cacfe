@@ -1,0 +1,21 @@
+/*
+ * Swarm.cpp
+ *
+ *  Created on: Jul 10, 2018
+ *      Author: Desktop
+ */
+
+#include "Swarm.h"
+
+namespace caveofprogrraming {
+
+Swarm::Swarm() {
+	m_pParticles = new Particle[NPARTICLES];
+
+}
+
+Swarm::~Swarm() {
+	// TODO Auto-generated destructor stub
+}
+
+} /* namespace caveofprogrraming */

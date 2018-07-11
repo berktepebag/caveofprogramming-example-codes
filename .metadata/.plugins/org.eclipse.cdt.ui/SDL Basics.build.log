@@ -1,0 +1,11 @@
+08:22:43 **** Incremental Build of configuration Debug for project SDL Basics ****
+make all 
+Building target: SDL Basics.exe
+Invoking: Cygwin C++ Linker
+g++ -L"H:\Libraries\SDL2-2.0.8\i686-w64-mingw32\lib" -o "SDL Basics.exe"  ./src/SDL\ Basics.o   -llibSDL2
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:47: SDL Basics.exe] Error 1
+
+08:22:44 Build Finished (took 359ms)
+

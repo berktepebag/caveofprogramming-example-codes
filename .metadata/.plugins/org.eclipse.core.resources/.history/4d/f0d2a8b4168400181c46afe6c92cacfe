@@ -1,0 +1,26 @@
+/*
+ * Screen.cpp
+ *
+ *  Created on: Jul 10, 2018
+ *      Author: Desktop
+ */
+
+#include "Screen.h"
+
+namespace caveofprogramming {
+
+Screen::Screen(){
+
+}
+
+bool Screen::init() {
+
+}
+bool Screen::processEvents() {
+
+}
+void Screen::close() {
+
+}
+
+} /* namespace caveofprogrraming */

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Returning Objects From Functions/src/New Operator.cpp&apos; to &apos;Returning Objects From Functions.cpp&apos;" description="Rename resource &apos;New Operator.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/New Operator.cpp" name="Returning Objects From Functions.cpp" stamp="1530433721015" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;New Operator/src/Copy Constructors.cpp&apos; to &apos;New Operator.cpp&apos;" description="Rename resource &apos;Copy Constructors.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Copy Constructors.cpp" name="New Operator.cpp" stamp="1530352609192" updateReferences="true"/>
+</session>

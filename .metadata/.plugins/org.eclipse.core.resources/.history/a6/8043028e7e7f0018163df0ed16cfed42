@@ -1,0 +1,42 @@
+#include <iostream>
+using namespace std;
+
+class Hero {
+private:
+
+	int intelligance;
+	int strength;
+	int agility;
+
+public:
+
+	void setInitials(int intelligance, int strength, int agility){
+
+		this->intelligance = intelligance;
+		this->strength = strength;
+		this->agility = agility;
+	}
+
+	void printInitials(){
+		cout << "Int: " << intelligance << " Str: " << strength << " Agi: " << agility;
+	}
+};
+
+class IntHero : public Hero{
+
+public:
+	void castSpell(){
+		int oldInt = this->intelligance;
+		this->intelligance++;
+		cout << "Intelligance increased from: " << oldInt << " to " << this->intelligance;
+	}
+
+};
+
+int main() {
+
+	IntHero
+
+
+	return 0;
+}

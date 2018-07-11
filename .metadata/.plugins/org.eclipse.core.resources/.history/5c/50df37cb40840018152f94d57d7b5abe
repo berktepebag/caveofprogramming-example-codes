@@ -1,0 +1,33 @@
+/*
+ * Particle.cpp
+ *
+ *  Created on: Jul 10, 2018
+ *      Author: Desktop
+ */
+
+#include "Particle.h"
+#include <stdlib.h>
+
+namespace caveofprogramming {
+
+Particle::Particle() {
+
+	m_x = ((2.0 * (double)rand())/RAND_MAX) - 1;
+	m_y = ((2.0 * (double)rand())/RAND_MAX) - 1;
+}
+
+Particle::~Particle() {
+	// TODO Auto-generated destructor stub
+}
+
+void Particle::update(){
+
+	const double xspeed = (0.001 * rand())/RAND_MAX;
+	const double yspeed = (0.001 * rand())/RAND_MAX;
+
+
+	m_x += xspeed;
+	m_y += yspeed;
+}
+
+} /* namespace caveofprogramming */

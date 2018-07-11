@@ -1,0 +1,18 @@
+/*
+ * Screen.h
+ *
+ *  Created on: Jul 10, 2018
+ *      Author: Desktop
+ */
+
+#ifndef SCREEN_H_
+#define SCREEN_H_
+
+namespace caveofprogrraming {
+
+class Screen {
+};
+
+} /* namespace caveofprogrraming */
+
+#endif /* SCREEN_H_ */

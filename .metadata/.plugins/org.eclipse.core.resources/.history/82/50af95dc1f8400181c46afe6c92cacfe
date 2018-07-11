@@ -1,0 +1,42 @@
+
+#include <iostream>
+#include <stdio.h>
+
+#include <SDL.h>
+#include "Screen.h"
+
+using namespace std;
+using namespace caveofprogramming;
+
+int main(int argc, char* argv[]) {
+    // Start SDL2
+	Screen screen;
+
+	if(screen.init() == false){
+		cout << "Error initialising SDL" << endl;
+	}
+
+    while(true){
+    	//Update Particles
+    	//Draw Particles
+    	// Check for messages/events
+
+    	for(int y = 0; y < Screen::SCREEN_HEIGHT; y++){
+    		for (int x = 0; x < Screen::SCREEN_WIDTH; x++) {
+
+    			cout << "y: " << y << " x: " << x << endl;
+			}
+    	}
+
+    	if(screen.processEvents() == false){
+    		break;
+    	}
+
+
+    }
+
+    screen.close();
+
+
+    return 0;
+}
