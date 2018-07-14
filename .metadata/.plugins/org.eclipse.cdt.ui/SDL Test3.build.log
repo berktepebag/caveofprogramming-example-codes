@@ -1,9 +1,0 @@
-09:17:00 **** Incremental Build of configuration Debug for project SDL Test3 ****
-Info: Internal Builder is used for build
-g++ -o "SDL Test3.exe" "src\\SDL Test3.o" "src\\sdl_test.o" -lmingw32 -lSDLmain -lSDL 
-c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot find -lSDLmain
-c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot find -lSDL
-collect2.exe: error: ld returned 1 exit status
-
-09:17:00 Build Finished (took 220ms)
-

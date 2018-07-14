@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Allocating Memory/src/Returning Objects From Functions.cpp&apos; to &apos;Allocating Memory.cpp&apos;" description="Rename resource &apos;Returning Objects From Functions.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Returning Objects From Functions.cpp" name="Allocating Memory.cpp" stamp="1530449670756" updateReferences="true"/>
-</session>

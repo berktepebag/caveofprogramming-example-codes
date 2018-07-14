@@ -1,53 +1,27 @@
-Info: Nothing to build for Bitwise And
-Info: Nothing to build for Bitwise And
-Info: Nothing to build for Bitwise And
-09:24:23 **** Incremental Build of configuration Debug for project Bitwise And ****
+12:11:20 **** Incremental Build of configuration Debug for project Custom Objects as Map Keys ****
 Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Bitwise And.o" "..\\src\\Bitwise And.cpp" 
-g++ -o "Bitwise And.exe" "src\\Bitwise And.o" 
-09:25:08 **** Incremental Build of configuration Debug for project Bitwise And ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Custom Objects as Map Keys.o" "..\\src\\Custom Objects as Map Keys.cpp" 
+g++ -o "Custom Objects as Map Keys.exe" "src\\Custom Objects as Map Keys.o" 
+Info: Nothing to build for Custom Objects as Map Keys
+Info: Nothing to build for Custom Objects as Map Keys
+12:12:02 **** Incremental Build of configuration Debug for project Custom Objects as Map Keys ****
 Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Bitwise And.o" "..\\src\\Bitwise And.cpp" 
-g++ -o "Bitwise And.exe" "src\\Bitwise And.o" 
-Info: Nothing to build for SDL Basic
-09:29:26 **** Incremental Build of configuration Debug for project SDL Basic ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Custom Objects as Map Keys.o" "..\\src\\Custom Objects as Map Keys.cpp" 
+g++ -o "Custom Objects as Map Keys.exe" "src\\Custom Objects as Map Keys.o" 
+12:12:10 **** Incremental Build of configuration Debug for project Custom Objects as Map Keys ****
 Info: Internal Builder is used for build
-g++ "-IC:\\MinGW\\include\\SDL2" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SDL Basic.o" "..\\src\\SDL Basic.cpp" 
-..\src\SDL Basic.cpp: In function 'int SDL_main(int, char**)':
-..\src\SDL Basic.cpp:25:6: warning: unused variable 'max' [-Wunused-variable]
-  int max = 0;
-      ^~~
-g++ -o "SDL Basic.exe" "src\\Particle.o" "src\\SDL Basic.o" "src\\Screen.o" "src\\Swarm.o" -lmingw32 -lSDL2main -lSDL2 
-09:30:06 **** Incremental Build of configuration Debug for project SDL Basic ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Custom Objects as Map Keys.o" "..\\src\\Custom Objects as Map Keys.cpp" 
+g++ -o "Custom Objects as Map Keys.exe" "src\\Custom Objects as Map Keys.o" 
+Info: Nothing to build for Custom Objects as Map Keys
+12:12:40 **** Incremental Build of configuration Debug for project Custom Objects as Map Keys ****
 Info: Internal Builder is used for build
-g++ "-IC:\\MinGW\\include\\SDL2" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SDL Basic.o" "..\\src\\SDL Basic.cpp" 
-..\src\SDL Basic.cpp: In function 'int SDL_main(int, char**)':
-..\src\SDL Basic.cpp:25:6: warning: unused variable 'max' [-Wunused-variable]
-  int max = 0;
-      ^~~
-g++ -o "SDL Basic.exe" "src\\Particle.o" "src\\SDL Basic.o" "src\\Screen.o" "src\\Swarm.o" -lmingw32 -lSDL2main -lSDL2 
-10:33:18 **** Incremental Build of configuration Debug for project SDL Basic ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Custom Objects as Map Keys.o" "..\\src\\Custom Objects as Map Keys.cpp" 
+g++ -o "Custom Objects as Map Keys.exe" "src\\Custom Objects as Map Keys.o" 
+12:14:16 **** Incremental Build of configuration Debug for project Custom Objects as Map Keys ****
 Info: Internal Builder is used for build
-g++ "-IC:\\MinGW\\include\\SDL2" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SDL Basic.o" "..\\src\\SDL Basic.cpp" 
-..\src\SDL Basic.cpp: In function 'int SDL_main(int, char**)':
-..\src\SDL Basic.cpp:25:6: warning: unused variable 'max' [-Wunused-variable]
-  int max = 0;
-      ^~~
-g++ "-IC:\\MinGW\\include\\SDL2" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Screen.o" "..\\src\\Screen.cpp" 
-g++ -o "SDL Basic.exe" "src\\Particle.o" "src\\SDL Basic.o" "src\\Screen.o" "src\\Swarm.o" -lmingw32 -lSDL2main -lSDL2 
-10:42:59 **** Incremental Build of configuration Debug for project SDL Basic ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Custom Objects as Map Keys.o" "..\\src\\Custom Objects as Map Keys.cpp" 
+g++ -o "Custom Objects as Map Keys.exe" "src\\Custom Objects as Map Keys.o" 
+12:15:57 **** Incremental Build of configuration Debug for project Custom Objects as Map Keys ****
 Info: Internal Builder is used for build
-g++ "-IC:\\MinGW\\include\\SDL2" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Particle.o" "..\\src\\Particle.cpp" 
-g++ -o "SDL Basic.exe" "src\\Particle.o" "src\\SDL Basic.o" "src\\Screen.o" "src\\Swarm.o" -lmingw32 -lSDL2main -lSDL2 
-10:43:08 **** Incremental Build of configuration Debug for project SDL Basic ****
-Info: Internal Builder is used for build
-g++ "-IC:\\MinGW\\include\\SDL2" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Particle.o" "..\\src\\Particle.cpp" 
-g++ -o "SDL Basic.exe" "src\\Particle.o" "src\\SDL Basic.o" "src\\Screen.o" "src\\Swarm.o" -lmingw32 -lSDL2main -lSDL2 
-10:43:17 **** Incremental Build of configuration Debug for project SDL Basic ****
-Info: Internal Builder is used for build
-g++ "-IC:\\MinGW\\include\\SDL2" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Particle.o" "..\\src\\Particle.cpp" 
-g++ -o "SDL Basic.exe" "src\\Particle.o" "src\\SDL Basic.o" "src\\Screen.o" "src\\Swarm.o" -lmingw32 -lSDL2main -lSDL2 
-10:45:50 **** Incremental Build of configuration Debug for project SDL Basic ****
-Info: Internal Builder is used for build
-g++ "-IC:\\MinGW\\include\\SDL2" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Particle.o" "..\\src\\Particle.cpp" 
-g++ -o "SDL Basic.exe" "src\\Particle.o" "src\\SDL Basic.o" "src\\Screen.o" "src\\Swarm.o" -lmingw32 -lSDL2main -lSDL2 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Custom Objects as Map Keys.o" "..\\src\\Custom Objects as Map Keys.cpp" 
+g++ -o "Custom Objects as Map Keys.exe" "src\\Custom Objects as Map Keys.o" 

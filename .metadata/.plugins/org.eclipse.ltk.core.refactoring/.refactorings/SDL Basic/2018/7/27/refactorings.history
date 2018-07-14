@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;SDL Basic/src/SDL Tester.cpp&apos; to &apos;SDL Basic.cpp&apos;" description="Rename resource &apos;SDL Tester.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/SDL Tester.cpp" name="SDL Basic.cpp" stamp="1530773510077" updateReferences="true"/>
-</session>

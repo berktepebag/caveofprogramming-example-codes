@@ -12,13 +12,10 @@ using namespace std;
 class Animal{
 
 public:
-	virtual void speak(){
-
-		cout << "miyavvv" << endl;
-	}
+	//Pure virtual method
+	virtual void speak() = 0;
 
 	virtual ~Animal() {};
-
 };
 
 class Cat : public Animal{

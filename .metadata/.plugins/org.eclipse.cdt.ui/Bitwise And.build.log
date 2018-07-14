@@ -1,7 +1,0 @@
-09:25:08 **** Incremental Build of configuration Debug for project Bitwise And ****
-Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Bitwise And.o" "..\\src\\Bitwise And.cpp" 
-g++ -o "Bitwise And.exe" "src\\Bitwise And.o" 
-
-09:25:09 Build Finished (took 914ms)
-
